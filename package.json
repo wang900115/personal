@@ -8,7 +8,9 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "aos": "^2.3.4",
     "core-js": "^3.8.3",
+    "font-awesome": "^4.7.0",
     "naive-ui": "^2.41.0",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3"
@@ -42,5 +44,19 @@
     "last 2 versions",
     "not dead",
     "not ie 11"
-  ]
+  ],
+  "description": "``` npm install ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wang900115/personal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/wang900115/personal/issues"
+  },
+  "homepage": "https://github.com/wang900115/personal#readme"
 }

@@ -12,3 +12,11 @@
 import SideBar from "@/components/appSideBar.vue";
 import Footer from "@/components/appFooter.vue";
 </script>
+
+<style>
+#main {
+  margin: 0, ;
+  padding: 0;
+  height: 100%;
+}
+</style>
